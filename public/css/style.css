@@ -1,0 +1,25 @@
+<style>
+    body{
+        font-family: 'Bai Jamjuree', sans-serif;
+
+    }
+    .headercs{
+        font-size: 30px;
+        background-color: burlywood;
+        color: crimson;
+        height: 100px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .center{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .content{
+        color: brown;
+    }
+
+
+</style>
